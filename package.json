@@ -1,7 +1,7 @@
 {
-  "name": "@rehooks/local-storage",
+  "name": "@maintained/local-storage",
   "version": "1.6.0",
-  "description": "React hook for local-storage",
+  "description": "React hook for local-storage. Fork of @rehooks/local-storage",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
